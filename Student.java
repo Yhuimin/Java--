@@ -5,7 +5,7 @@ public class Student extends Person{
 	//建立两者的联系，就是可以在Student类中调用Course类的东西
 	//choosecourse不是Student的属性
 	private Course choosecourse;
-	
+	Teacher t1;
 	//无参构造方法
 	public Student() {
 		super();
@@ -24,12 +24,19 @@ public class Student extends Person{
 	public void setChoosecourse(Course choosecourse) {
 		this.choosecourse = choosecourse;
 	}
+	public Teacher getT1() {
+		return t1;
+	}
+	public void setT1(Teacher t1) {
+		this.t1 = t1;
+	}
        //打印输出学生信息
 	@Override
 	public String toString() {
-		return super.toString()+"Student [choosecourse="+ choosecourse + "]";
+		return super.toString()
+				+"\nStudent [choosecourse="+ choosecourse + "]\n"
+				+t1;
 	}
-	
 	
 						
 	
