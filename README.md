@@ -77,7 +77,7 @@ Java课程作业项目仓库
 	}
 ```
 ## 运行结果
-![图片](https://p.qlogo.cn/qqmail_head/5cXMEH7OTmzhqvibzsJgjic2XWRfoh1ofq5iciaTELMHOCJ7h49Uyf4bo6BVZOCeofrY/0)
+![RUNOOB 图标](https://p.qlogo.cn/qqmail_head/5cXMEH7OTmzhqvibzsJgjic2XWRfoh1ofq5iciaTELMHOCJ7h49Uyf4bo6BVZOCeofrY/0)
 
 ## 编程感想
    此次试验，我了解了类的继承用法；</br>
