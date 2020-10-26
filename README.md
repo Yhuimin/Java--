@@ -77,7 +77,7 @@ Java课程作业项目仓库
 	}
 ```
 ## 运行结果
-!img[https://mail.qq.com/cgi-bin/download?sid=B87tD0b6LvZghBdI&upfile=AYDOpr5rGsgr7QILXktnNRcw5VQAzLNVAnwHzZCfAp%2BZeCLZG97z3TTnfxEmSk%2BTGrTNJoDi3Zu9w2HEv7GXoOnFW8F0q0B8%2F1ALw0TZUQ8NoECJwLB1qhsYIUTe78bU]
+!img（https://mail.qq.com/cgi-bin/download?sid=B87tD0b6LvZghBdI&upfile=AYDOpr5rGsgr7QILXktnNRcw5VQAzLNVAnwHzZCfAp%2BZeCLZG97z3TTnfxEmSk%2BTGrTNJoDi3Zu9w2HEv7GXoOnFW8F0q0B8%2F1ALw0TZUQ8NoECJwLB1qhsYIUTe78bU）
 
 ## 编程感想
    此次试验，我了解了类的继承用法；</br>
