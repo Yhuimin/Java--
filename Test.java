@@ -13,9 +13,10 @@ public class Test {
 		Teacher teacher = new Teacher(3,"小麦","女");
 		Student student = new Student(55,"木木","女");
 	  //Course course = new Course(1,null,"教室204","晚7点","张老师");
-		Course course = new Course(1,"Java","教室204","晚7点","张老师");
+		Course course = new Course(1,"Java","教室204","晚7点","momo");
 		//通过teacher类的set方法设置教授课程，通过实参course调用
 		teacher.setTeachcourse(course);
+		student.setT1(teacher);
 		//通过student类的set方法设置所选课程，通过实参course调用
 		student.setChoosecourse(course);
 		//通过获取课程名称来判断学生是否退课
